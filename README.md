@@ -1,5 +1,4 @@
 # DEVELOPMENT-OF-AI-BASED-PHENOTYPE-GENOTYPE-CORRELATION-IN-PATIENTS-WITH-INHERITED-RETINAL-DISORDERS
-# AI-Based Phenotype–Genotype Correlation in Inherited Retinal Disorders
 
 Code for the paper **"Development and Evaluation of AI-Based Phenotype–Genotype Correlation in Patients with Inherited Retinal Disorders"** (submitted to IEEE ISBI 2027).
 
