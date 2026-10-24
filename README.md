@@ -1,6 +1,6 @@
 # DEVELOPMENT-OF-AI-BASED-PHENOTYPE-GENOTYPE-CORRELATION-IN-PATIENTS-WITH-INHERITED-RETINAL-DISORDERS
 
-Code for the paper **"Development and Evaluation of AI-Based Phenotype–Genotype Correlation in Patients with Inherited Retinal Disorders"** (submitted to IEEE ISBI 2027).
+Code for the paper **"Development and Evaluation of AI-Based Phenotype–Genotype Correlation in Patients with Inherited Retinal Disorders"** .
 
 This repository studies whether ultra-widefield (UWF) retinal images can be used to (1) detect inherited retinal dystrophies (IRDs), (2) classify the clinical phenotype, and (3) predict the causative gene, under strict patient-level evaluation.
 
@@ -49,15 +49,8 @@ opencv-python
 
 The UWF images were collected at the IRD clinic of Dr. R.P. Centre for Ophthalmic Sciences, AIIMS, New Delhi, under institutional ethics approval. **The patient data are not included in this repository** and cannot be shared publicly.
 
-## Citation
 
-If you use this code, please cite:
 
-```
-R. K. Rathor and V. C, "Development and Evaluation of AI-Based
-Phenotype-Genotype Correlation in Patients with Inherited Retinal
-Disorders," submitted to IEEE ISBI, 2027.
-```
 
 ## Acknowledgments
 
